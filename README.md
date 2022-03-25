@@ -1,5 +1,7 @@
 # Deep Average Network
 
+The task is to build an MLP model that would categorize sentiments of tweets (negative, positive, or neutral). All comments are in English.
+
 ## Как сделать домашку
 - Склонируйте этот репозиторий
 - Установите зависимости
